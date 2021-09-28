@@ -1,0 +1,14 @@
+[06-May-2020 16:34:00 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 25
+[06-May-2020 16:34:00 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 47
+[06-May-2020 16:34:00 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 191
+[06-May-2020 16:34:00 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 211
+[06-May-2020 16:34:09 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/view.php on line 121
+[06-May-2020 16:34:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/view.php on line 121
+[06-May-2020 16:34:09 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/view.php on line 122
+[06-May-2020 16:34:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/view.php on line 122
+[06-May-2020 16:34:13 UTC] PHP Notice:  Undefined index: form in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/form.php on line 14
+[06-May-2020 16:34:13 UTC] PHP Notice:  Undefined index: form in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/form.php on line 88
+[06-May-2020 16:34:21 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 25
+[06-May-2020 16:34:21 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 47
+[06-May-2020 16:34:21 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 191
+[06-May-2020 16:34:21 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/user/proses.php on line 211

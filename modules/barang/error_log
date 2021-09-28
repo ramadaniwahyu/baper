@@ -1,0 +1,17 @@
+[06-May-2020 16:34:26 UTC] PHP Notice:  Undefined index: form in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/form.php on line 14
+[06-May-2020 16:34:26 UTC] PHP Notice:  Undefined index: form in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/form.php on line 122
+[06-May-2020 16:34:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 85
+[06-May-2020 16:34:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 87
+[06-May-2020 16:34:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 88
+[06-May-2020 16:34:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 88
+[06-May-2020 16:34:33 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/proses.php on line 24
+[06-May-2020 16:34:33 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/proses.php on line 47
+[06-May-2020 16:34:33 UTC] PHP Notice:  Undefined index: act in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/proses.php on line 75
+[06-May-2020 16:34:36 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 85
+[06-May-2020 16:34:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 87
+[06-May-2020 16:34:36 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 88
+[06-May-2020 16:34:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 88
+[06-May-2020 16:34:37 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 85
+[06-May-2020 16:34:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 87
+[06-May-2020 16:34:37 UTC] PHP Notice:  Undefined variable: mysqli in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 88
+[06-May-2020 16:34:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbxteamw/public_html/demo/PersediaanBarang1/modules/barang/view.php on line 88
